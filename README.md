@@ -3,7 +3,11 @@ This repository serves as a demonstration and learning platform for **ReactJS** 
 
 **Show Reel**: 
 
-<video src="../food-app/Juice%20Bar%20-%20Show%20reel.mp4" controls title="Title"></video>
+
+
+https://github.com/Phushyamithra/Juice-Bar-App/assets/60391390/eb9876d7-3c02-4425-9d4b-d65cadf68531
+
+
 
 ## Available Scripts
 
